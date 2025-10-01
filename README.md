@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hey there 👋<br><br>🔭 I’m currently working on cool projects that mix web and mobile development.  <br>🤝 I’m looking to collaborate on creative ideas that make tech fun and useful.  <br>👐 I’m looking for help with turning side projects into something bigger.  <br>🌱 I’m currently learning new tools every day to level up my coding game.  <br>💬 Ask me about building apps, trying out new frameworks, or just geeking out about tech.  <br>⚡ Fun fact: I drink more coffee than my code editor can handle ☕💻  
+### Hey there 👋<br><br>🔭 I’m currently working on cool projects that mix web and mobile development.  <br>🤝 I’m looking to collaborate on creative ideas that make tech fun and useful.  <br>👐 I’m looking for help with turning side projects into something bigger.  <br>🌱 I’m currently learning new tools every day to level up my coding game.  <br>💬 Ask me about building apps, trying out new frameworks, or just geeking out about tech.  <br>⚡ Fun fact: I don't drink coffee at all, this energy comes from thin air ☕💻  
 
 
 # 💻 Tech Stack:
